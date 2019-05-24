@@ -10,6 +10,7 @@ Welcome to my_pro's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   contents
    doc_syntax
 
 
